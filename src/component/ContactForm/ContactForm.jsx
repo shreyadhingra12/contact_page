@@ -40,7 +40,9 @@ const ContactForm = () => {
         </div>
         
       </div>
-      <div className={styles.contact_image}></div>
+      <div className={styles.contact_image}>
+        <img src="./images/Service 24_7-pana 1 (1).svg" alt="" />
+      </div>
     </section>
   );
 };
