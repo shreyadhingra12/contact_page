@@ -32,7 +32,7 @@ const ContactForm = () => {
           </div>
            <div className={styles.form_control}>
             <label htmlFor="text">TEXT</label>
-            <textarea type="text" input="text" rows={20} />
+            <textarea type="text" input="text" rows={8} />
           </div>
         </form>
         <div style={{display:"flex",justifyContent:"end"}}>
