@@ -1,3 +1,3 @@
 # Contact Page
-![Screenshot](./images/complete.png)
+![Screenshot](./public/images/complete.png)
 
